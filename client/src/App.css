@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.post-list{
+  padding: 24px;
+
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-post{
+  width: 500px;
+  
+  margin: 20px;
+  
+  border: 1px solid blue;
+}
+
+h6{
+  border: 1px solid red;
+}
